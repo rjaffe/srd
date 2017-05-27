@@ -1,2 +1,2 @@
 # srd
-Code to generate metrics from a Google sheet
+Code to generate metrics from a Google sheet. Haven't commited Jupyter Notebook yet; still deciding how to do so without creating a security leak. Stay tuned...
